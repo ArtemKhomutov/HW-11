@@ -1,0 +1,25 @@
+ul {
+    list-style: none;
+}
+.card {
+    display: flex;
+    justify-content: space-around;
+}
+.child {
+    background-color: rgb(186, 255, 255);
+    border: 1px solid #000000;
+    border-radius: 10px;
+    width: 200px;
+    height: 230px;
+}
+.cat-img {
+    width: 145px;
+    border-radius: 5px;
+    padding-top: 15px;
+    margin-left: 27px;
+}
+.cat-text {
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
